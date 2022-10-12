@@ -2,6 +2,6 @@ class
 {
 	public static void main(String[] args) 
 	{
-		System.out.println("secound java program");
+		System.out.println("2nd java program java");
 	}
 }
