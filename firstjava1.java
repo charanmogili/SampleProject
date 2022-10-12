@@ -3,6 +3,6 @@ class
 	public static void main(String[] args) 
 	{
 
-		System.out.println("1st java program");	
+		System.out.println("1st java program changed");	
 	}
 }
